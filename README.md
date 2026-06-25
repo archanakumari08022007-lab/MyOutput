@@ -1,2 +1,3 @@
 # MyOutput
 "" This is my first GitHub repository, created to organize and showcase my notes, outputs, and learning journey."
+Author - Archana kumari
